@@ -51,4 +51,11 @@ The project has been tested on:
 ├── OUTPUT/              # Results and output files
 │   ├── csv/             # CSVs generated from analysis
 │   └── visualizations/  # Plots and graphs generated from the data
-'''plaintext
+```
+## Instructions for Reproducing Results
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-repo/project.git
+   cd project
+  
