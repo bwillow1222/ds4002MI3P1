@@ -24,8 +24,30 @@ This repository contains the code, data, and results for our sentiment analysis 
 - matplotlib (for plots)
 - seaborn (for enhanced plotting)
 
+
+
 ### Platform
 The project has been tested on:
 - Windows 10/11
 - macOS
 - Linux (Ubuntu 20.04 and above)
+
+## Map of the Repository Structure
+
+```plaintext
+/Project-Repository
+│
+├── README.md            # Orientation document
+├── LICENSE.md           # MIT License for the repository
+├── SCRIPTS/             # Python scripts for analysis
+│   ├── data_preprocessing.py   # Script for cleaning and preparing data
+│   ├── sentiment_analysis.py   # Script for performing sentiment analysis
+│   └── generate_plots.py       # Script for creating visualizations
+│
+├── DATA/                # Folder for data storage
+│   ├── raw/             # Raw data
+│   └── processed/       # Processed data used in the analysis
+│
+├── OUTPUT/              # Results and output files
+│   ├── csv/             # CSVs generated from analysis
+│   └── visualizations/  # Plots and graphs generated from the data
