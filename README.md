@@ -70,5 +70,5 @@ The project has been tested on:
 5. **Generate visualizations**
    ```bash
    python SCRIPTS/generate_plots.py
-6. **Check the results**
+6. **Check the results:**
    All results, including CSV files and visualizations, will be stored in the /OUTPUT/ folder. The key output files include sentiment scores, comparison tables, and visualizations highlighting the sentiment differences between candidates at rallies and debates.
