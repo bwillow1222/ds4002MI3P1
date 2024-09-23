@@ -58,4 +58,17 @@ The project has been tested on:
    ```bash
    git clone https://github.com/your-repo/project.git
    cd project
-  
+2. **Install the required packages**
+   ```bash
+   pip install pandas numpy vaderSentiment matplotlib seaborn
+3. **Prepare the data**
+   ```bash
+   python SCRIPTS/data_preprocessing.py
+4. **Perform sentiment analysis**
+   ```bash
+   python SCRIPTS/sentiment_analysis.py
+5. **Generate visualizations**
+   ```bash
+   python SCRIPTS/generate_plots.py
+6. **Check the results**
+   All results, including CSV files and visualizations, will be stored in the /OUTPUT/ folder. The key output files include sentiment scores, comparison tables, and visualizations highlighting the sentiment differences between candidates at rallies and debates.
