@@ -44,6 +44,7 @@ The project has been tested on:
 │   └── eda.ipynb       # Script for exploratory data analysis
 │
 ├── DATA/                # Folder for data storage
+│   ├── Data Appendix.pdf   # Data Appendix pdf
 │   ├── raw/             # Raw data
 │   └── processed/       # Processed data used in the analysis
 │
