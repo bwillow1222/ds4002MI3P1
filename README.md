@@ -40,7 +40,7 @@ The project has been tested on:
 ├── SCRIPTS/             # Python scripts for analysis
 │   ├── Data_Preprocess.ipynb      # Script for cleaning and preparing data
 │   ├── Sentiment_Analysis.ipynb   # Script for performing sentiment analysis
-│   ├── Visualitationzs.ipynb      # Script for creating visualizations
+│   ├── Visualizations.ipynb      # Script for creating visualizations
 │   └── eda.ipynb                  # Script for exploratory data analysis
 │
 ├── DATA/                # Folder for data storage
