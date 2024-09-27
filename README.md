@@ -80,6 +80,6 @@ The project has been tested on:
    python SCRIPTS/Sentiment_Analysis.ipynb
 5. **Generate visualizations**
    ```bash
-   python SCRIPTS/Visualitationzs.ipynb
+   python SCRIPTS/Visualizations.ipynb
 6. **Check the results:**
    All results, including CSV files and visualizations, will be stored in the /OUTPUT/ folder. The key output files include sentiment scores, comparison tables, and visualizations highlighting the sentiment differences between candidates at rallies and debates.
