@@ -57,6 +57,7 @@ The project has been tested on:
 │   └── visualizations/  # Plots and graphs generated from the data
 │      ├── avg_sentiment_debate.png    # sentiment scores from the debate grouped by Speaker and Topic
 │      ├── avg_sentiment_rally.png     # sentiment scores from the rallies grouped by Speaker and Topic
+│      ├── comment_counts.png          # stacked bar graph of comments per each topic
 │      ├── score_harris_debate.png     # histogram distribution of Harris's debate speech
 │      ├── score_harris_rally.png      # histogram distribution of Harris's rally speech
 │      ├── score_trump_debate.png      # histogram distribution of Trump's debate speech
