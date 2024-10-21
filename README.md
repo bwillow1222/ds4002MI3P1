@@ -72,16 +72,16 @@ The project has been tested on:
    cd project
 2. **Install the required packages**
    ```bash
-   pip install -r requirements.txt
+   pip install pandas numpy vaderSentiment matplotlib seaborn
 3. **Prepare the data**
    ```bash
-   python SCRIPTS/data_preprocessing.py
+   python SCRIPTS/Data_Preprocess.ipynb
 4. **Perform sentiment analysis**
    ```bash
-   python SCRIPTS/model_implementation.py
+   python SCRIPTS/Sentiment_Analysis.ipynb
 5. **Generate visualizations**
    ```bash
-   python SCRIPTS/evaluation.py
+   python SCRIPTS/Visualizations.ipynb
 6. **Check the results:**
-   View the visualizations and performance metrics in the `OUTPUT/` folder.
+   All results, including CSV files and visualizations, will be stored in the /OUTPUT/ folder. The key output files include sentiment scores, comparison tables, and visualizations highlighting the sentiment differences between candidates at rallies and debates.
 
